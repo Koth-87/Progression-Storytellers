@@ -24,6 +24,7 @@
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods and Shit/VFE Medieval 2</li>
     <li IfModActive="zal.farseerfan">Mods and Shit/Fan</li>
     <li IfModActive="erin.storyteller">Mods and Shit/Erin</li>
+    <li IfModActive="zal.vseoskarobnoxious">Mods and Shit/Oskar</li>
   </v1.5>
 
   <v1.6>
@@ -51,5 +52,6 @@
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods and Shit/VFE Medieval 2</li>
     <li IfModActive="zal.farseerfan">Mods and Shit/Fan</li>
     <li IfModActive="erin.storyteller">Mods and Shit/Erin</li>
+    <li IfModActive="zal.vseoskarobnoxious">Mods and Shit/Oskar</li>
   </v1.6>
 </loadFolders>

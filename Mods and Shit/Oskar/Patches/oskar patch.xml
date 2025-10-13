@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>          
 <Patch>
     <Operation Class="PatchOperationAddModExtension">
-        <xpath>/Defs/StorytellerDef[defName="FernyFrantic"]</xpath>
+        <xpath>/Defs/StorytellerDef[defName="VSE_OskarObnoxious"]</xpath>
         <value>
 			<li Class="ProgressionStorytellers.StorytellerExtension">
 				<category>Bizarre</category>
