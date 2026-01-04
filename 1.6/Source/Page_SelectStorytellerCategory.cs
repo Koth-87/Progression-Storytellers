@@ -108,9 +108,9 @@ namespace ProgressionStorytellers
 			GUI.color = new ColorInt(240, 240, 240).ToColor;
 			var oldStyle = Text.fontStyles[1];
 			var newStyle = new GUIStyle(oldStyle);
+			newStyle.fontSize = 14;
 			Text.fontStyles[1] = newStyle;
-			newStyle.fontSize = 17;
-			Widgets.Label(new Rect(boxRect.x + 10, categoryLabel.yMax - 5, boxRect.width - 20, 50), GetCategoryDescription(category));
+			Widgets.Label(new Rect(boxRect.x + 10, categoryLabel.yMax, boxRect.width - 20, 40), GetCategoryDescription(category));
 			Text.fontStyles[1] = oldStyle;
 			GUI.color = Color.white;
 		}
